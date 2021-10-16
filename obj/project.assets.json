@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/fileopencsharp/main.csproj",
+      "projectUniqueName": "/home/runner/fileirasfileolvasascsharp/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/fileopencsharp/main.csproj",
+      "projectPath": "/home/runner/fileirasfileolvasascsharp/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/fileopencsharp/obj/",
+      "outputPath": "/home/runner/fileirasfileolvasascsharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

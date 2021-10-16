@@ -1,5 +1,5 @@
-using System;
-using System.IO; // A Streamwriter miatt.
+using System;      // Console.WriteLine miatt.
+using System.IO;   // A StreamWriter, StreamReader miatt.
 using System.Text; // Az Encoding.Default miatt.
 
 class Program {
